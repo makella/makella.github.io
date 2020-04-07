@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: mamata akella
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: '/'
+      url: '/projects'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: This page is under construction.
 
 hero_settings:
   overlay_opacity: 0.5
@@ -34,7 +34,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/mamataakella'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -58,7 +58,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/mamataakella/'
 
 color_settings:
   background_color: '#ffffff'
@@ -68,7 +68,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#3498db'
   border_color: '#dddddd'
-  hero_background_color: '#ddd'
+  hero_background_color: '#fff'
   hero_text_color: '#000'
   error_color: '#D64541'
 

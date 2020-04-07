@@ -15,37 +15,7 @@ featured_image: /images/demo/mamata_flowers_2.jpg
 
 		<h1>Hi, my name is Mamata! 
 			Thanks for stopping by :)</h1>
-		<p>This page is under construction! <3</p>
-
-		{% include socials.html %}
-
-	</div>
-
-</section>
-
-<section class="listing">
-
-	<div class="wrap">
-
-		{% for project in site.projects reversed %}
-
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-					<p class="post__subtitle">{{ project.subtitle }}</p>
-					<p class="post__description">{{ project.description }}</p>
-				</div>
-			</div>
-
-		</article>
-
-		{% endfor %}
+		<p>This page is under construction, check back soon! <3</p>
 
 	</div>
 

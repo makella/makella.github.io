@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.2
 
 post_settings:
   grid_spacing: 10
@@ -68,7 +68,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#3498db'
   border_color: '#dddddd'
-  hero_background_color: '#fff'
+  hero_background_color: '#ddd'
   hero_text_color: '#000'
   error_color: '#D64541'
 
